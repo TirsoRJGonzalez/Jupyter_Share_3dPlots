@@ -4,3 +4,4 @@ seaborn
 matplotlib
 mpl_toolkits
 ipympl
+voila
