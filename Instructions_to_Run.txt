@@ -1,0 +1,10 @@
+Github repo URL
+https://github.com/TirsoRJGonzalez/Jupyter_Share_3dPlots
+
+
+URL to open
+/voila/render/notebooks/Gradient3dPlots.ipynb  <- (Change to URL)
+
+
+Link to access
+https://mybinder.org/v2/gh/TirsoRJGonzalez/Jupyter_Share_3dPlots/HEAD?urlpath=%2Fvoila%2Frender%2Fnotebooks%2FGradient3dPlots.ipynb
