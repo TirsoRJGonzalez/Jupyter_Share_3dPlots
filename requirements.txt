@@ -1,0 +1,7 @@
+numpy
+pandas
+seaborn
+matplotlib
+mpl_toolkits
+ipympl
+voila
