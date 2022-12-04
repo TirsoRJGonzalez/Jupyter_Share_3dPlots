@@ -8,3 +8,5 @@ URL to open
 
 Link to access
 https://mybinder.org/v2/gh/TirsoRJGonzalez/Jupyter_Share_3dPlots/HEAD?urlpath=%2Fvoila%2Frender%2Fnotebooks%2FGradient3dPlots.ipynb
+masked version:
+https://mybinder.org/v2/gh/TirsoRJGonzalez/Jupyter_Share_3dPlots/HEAD?urlpath=%2Fvoila%2Frender%2Fnotebooks%2FGradient3dPlots_Masked.ipynb
